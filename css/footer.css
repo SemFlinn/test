@@ -1,0 +1,14 @@
+.footer {
+  width: 100%;
+  padding: 5%;
+  background-color: #333;
+}
+.footer__text {
+  color: #ccc;
+  font-size: calc((100vw - 480px) / 800 * 0 + 15px);
+  line-height: 1.3em;
+}
+
+.footer h2 {
+  text-align: center;
+}
